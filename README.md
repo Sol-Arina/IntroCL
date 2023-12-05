@@ -1,2 +1,2 @@
 # IntroCL
-hw
+Computational linguistics course homework
